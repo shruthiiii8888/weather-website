@@ -50,7 +50,7 @@ button:hover {
   margin-top: 40px;
   display: flex;
   justify-content: space-around; /* Adjust space between cards */
-  background-image: url(slash1.gif);
+  background-image: url(hi.gif);
   background-size: cover;
   color: aliceblue;
   background-repeat: repeat;
