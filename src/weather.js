@@ -65,7 +65,7 @@ const WeatherForecast = () => {
             <h2>{index+1}-Day Weather {locationInput}</h2>
             <div className="weather-info">
               <p>Date: {weather.date}</p>
-              <p>Temperature: {weather.temperature} °C</p>
+              <p>Temperature: {weather.temperature}</p>
               <p>Description: {weather.description}</p>
             </div>
           </div>
